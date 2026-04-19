@@ -1,0 +1,8 @@
+{
+    "name": "mavrck/synthwave",
+    "description": "Synthwave landing page",
+    "type": "project",
+    "require": {
+        "php": "^8.2"
+    }
+}
