@@ -3,6 +3,7 @@
     "description": "Synthwave landing page",
     "type": "project",
     "require": {
-        "php": "^8.2"
+        "php": "^8.2",
+        "laravel/framework": "^13.5"
     }
 }
